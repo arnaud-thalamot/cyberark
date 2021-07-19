@@ -1,0 +1,7 @@
+name 'cyberark'
+maintainer 'Arnaud THALAMOT'
+maintainer_email 'arnaud.thalamot@gmail.com'
+license 'all_rights'
+description 'Installs/Configures cyberark'
+long_description 'Installs/Configures cyberark'
+version '1.0.0'

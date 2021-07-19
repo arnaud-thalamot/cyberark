@@ -1,2 +1,5 @@
 # cyberark
-Cyberark install and configuration
+
+TODO: Enter the cookbook description here.
+
+cyberark

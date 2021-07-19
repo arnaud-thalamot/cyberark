@@ -1,0 +1,11 @@
+Metrics/LineLength:
+  Max: 402
+
+Metrics/AbcSize:
+  Max: 43
+
+Metrics/MethodLength:
+  Max: 44
+
+Metrics/ParameterLists:
+  Max: 14
